@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I have been programming since I was 13 years old. I have an educational background in information systems and programming. Over the years, a wide range of projects has been developed, including games, websites, desktop applications, VS Code extensions, parsers, bots, server configurations, and big data analysis. 
+<p align="left">Started programming journey in 2017. I have an educational background in information systems and programming. Over the years, a wide range of projects has been developed, including games, websites, desktop applications, VS Code extensions, parsers, bots, server configurations, and big data analysis. 
 
 **Currently, work in web3 as a full-stack developer. As a hobby, I'm learning Web3 security.**</p>
 
