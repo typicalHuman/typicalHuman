@@ -44,6 +44,9 @@
 <a href="https://github.com/typicalHuman/mlga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=mlga&theme=transparent" />
 </a>
+<a href="https://github.com/typicalHuman/battleship.sol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=battleship.sol&theme=transparent" />
+</a>
 <a href="https://github.com/typicalHuman/eth_sign_diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=eth_sign_diary&theme=transparent" />
 </a>
