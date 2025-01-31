@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://github.com/foundry-rs/foundry/raw/master/.github/logo.png" height="40" alt="hardhat logo"  />
+  <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" height="40" alt="foundry logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="40" alt="hardhat logo"  />
   <img width="12" />
