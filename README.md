@@ -78,4 +78,7 @@
   <a href="https://audits.sherlock.xyz/watson/typicalHuman" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/112079356?s=200&v=4" width="40" height="40" alt="sherlock logo"  />
   </a>
+  <a href="https://immunefi.com/profile/typicalhuman/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" width="40" height="40" alt="immunefi logo"  />
+  </a>
 </div>
