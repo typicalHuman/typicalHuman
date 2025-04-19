@@ -65,6 +65,9 @@
 <a href="https://github.com/typicalHuman/jspipes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=jspipes&theme=transparent" />
 </a>
+<a href="https://github.com/typicalHuman/addrseek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=addrseek&theme=transparent" />
+</a>
 <a href="https://github.com/typicalHuman/ProxyMintHH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=ProxyMintHH&theme=transparent" />
 </a>
