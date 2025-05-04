@@ -41,6 +41,17 @@
 
 ###
 
+<div align="left">
+  <a href="https://audits.sherlock.xyz/watson/typicalHuman" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/112079356?s=200&v=4" width="40" height="40" alt="sherlock logo"  />
+  </a>
+  <a href="https://immunefi.com/profile/typicalhuman/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" width="40" height="40" alt="immunefi logo"  />
+  </a>
+</div>
+
+###
+
 <a href="https://github.com/typicalHuman/mlga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=mlga&theme=transparent" />
 </a>
@@ -75,13 +86,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=tx_speedup&theme=transparent" />
 </a>
 
-###
 
-<div align="left">
-  <a href="https://audits.sherlock.xyz/watson/typicalHuman" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/112079356?s=200&v=4" width="40" height="40" alt="sherlock logo"  />
-  </a>
-  <a href="https://immunefi.com/profile/typicalhuman/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/78231547?s=200&v=4" width="40" height="40" alt="immunefi logo"  />
-  </a>
-</div>
