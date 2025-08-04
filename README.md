@@ -53,7 +53,7 @@
 ###
 
 <a href="https://github.com/typicalHuman/hodl-4337">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=mlga&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=hodl-4337&theme=transparent" />
 </a>
 <a href="https://github.com/typicalHuman/mlga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=mlga&theme=transparent" />
