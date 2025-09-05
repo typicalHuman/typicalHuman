@@ -76,6 +76,9 @@
 <a href="https://github.com/typicalHuman/damn-vulnerable-defi-foundry-solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=damn-vulnerable-defi-foundry-solutions&theme=transparent" />
 </a>
+<a href="https://github.com/typicalHuman/cs2_heatmap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=cs2_heatmap&theme=transparent" />
+</a>
 <a href="https://github.com/typicalHuman/jspipes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=jspipes&theme=transparent" />
 </a>
