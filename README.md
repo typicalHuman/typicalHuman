@@ -1,4 +1,4 @@
-<h1 align="left">Fullstack Blockchain Developer</h1>
+<h1 align="left">Fullstack Web3 Developer</h1>
 
 ###
 
@@ -35,9 +35,7 @@
 
 ###
 
-<p align="left">Started programming journey in 2017. I have an educational background in information systems and programming. Over the years, a wide range of projects has been developed, including games, websites, desktop applications, VS Code extensions, parsers, bots, server configurations, and big data analysis. 
-
-**Currently, work in web3 as a full-stack developer. As a hobby, I'm learning web3 security.**</p>
+<p align="left">Fullstack Web3 Developer & Security Researcher with 5+ years of experience building production-ready dApps, backend systems, and smart contracts. Reported 35+ vulnerabilities with $25k+ rewards, contributing to the security of leading protocols like Eigenlayer and Story. Skilled at bridging backend, frontend, and blockchain layers into secure and scalable products - from Merkle-based profit distribution systems to yield-bearing BTC solutions. Passionate about Web3 security, DeFi innovation, and creating tools that enhance user trust and scalability.</p>
 
 ###
 
