@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Fullstack Web3 Developer & Security Researcher with 5+ years of experience building production-ready dApps, backend systems, and smart contracts. Reported 35+ vulnerabilities with $25k+ rewards, contributing to the security of leading protocols like Eigenlayer and Story. Skilled at bridging backend, frontend, and blockchain layers into secure and scalable products - from Merkle-based profit distribution systems to yield-bearing BTC solutions. Passionate about Web3 security, DeFi innovation, and creating tools that enhance user trust and scalability.</p>
+<p align="left">Fullstack Web3 Developer & Security Researcher with 5+ years of experience building production-ready dApps, backend systems, and smart contracts. Reported 35+ vulnerabilities with $25k+ rewards, contributing to the security of leading protocols like Eigenlayer and Story. Skilled at bridging backend, frontend, and blockchain layers into secure and scalable products - from Merkle-based profit distribution systems to yield-bearing BTC solutions. Contributed to Openzeppelin, Balancer, Chainlink and Viem repositories.</p>
 
 ###
 
