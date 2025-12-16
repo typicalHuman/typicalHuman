@@ -49,11 +49,11 @@
 <a href="https://github.com/typicalHuman/nostalgia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=nostalgia&theme=transparent" />
 </a>
-<a href="https://github.com/typicalHuman/rpc-rogether">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=rpc-rogether&theme=transparent" />
+<a href="https://github.com/typicalHuman/rpc-together">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=rpc-together&theme=transparent" />
 </a>
-<a href="https://github.com/typicalHuman/rpc-rogether-vault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=rpc-rogether-vault&theme=transparent" />
+<a href="https://github.com/typicalHuman/rpc-together-vault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=rpc-together-vault&theme=transparent" />
 </a>
 <a href="https://github.com/typicalHuman/mlga">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=typicalHuman&repo=mlga&theme=transparent" />
