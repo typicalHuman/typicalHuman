@@ -36,6 +36,9 @@
   <a href="https://www.youtube.com/@typicalHumanDev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width="40" height="40" alt="sherlock logo"  />
   </a>
+    <a href="https://medium.com/@typicalHuman" target="_blank">
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iFbTMvEZ1QI6G3LANLWodU41hYqUZVbnvQ&s" width="40" height="40" alt="sherlock logo"  />
+  </a>
   <a href="https://audits.sherlock.xyz/watson/typicalHuman" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/112079356?s=200&v=4" width="40" height="40" alt="sherlock logo"  />
   </a>
