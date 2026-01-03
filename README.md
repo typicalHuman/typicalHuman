@@ -33,6 +33,9 @@
 ###
 
 <div align="left">
+  <a href="https://www.youtube.com/@typicalHumanDev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" width="40" height="40" alt="sherlock logo"  />
+  </a>
   <a href="https://audits.sherlock.xyz/watson/typicalHuman" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/112079356?s=200&v=4" width="40" height="40" alt="sherlock logo"  />
   </a>
